@@ -1,6 +1,6 @@
 # Cyborus
 
-- Total [Rust](www.rust-lang.org) nerd
+- Total [Rust](https://www.rust-lang.org) nerd
 - Decently good at Splatoon 2
 - Bad at SSBU
 
