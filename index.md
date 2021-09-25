@@ -1,3 +1,7 @@
+---
+title:  "Cyborus"
+---
+
 # Cyborus
 
 [About me](/about.md)
