@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header footer {
+    border-right: 1px;
+}
