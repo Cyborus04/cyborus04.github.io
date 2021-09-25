@@ -5,7 +5,7 @@ title: Cyborus
 
 {% for post in site.posts %}
   - ## [{{ post.title }}]({{ post.url }})
-    <small>{{ page.author }} - {{ page.date }}</small>
+    {{ page.author }} - {{ page.date }}
 
 
 {% endfor %}
